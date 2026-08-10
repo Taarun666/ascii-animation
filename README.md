@@ -1,1 +1,1 @@
-code spript for hovring numerical value rings 
+code script for hovering numerical value rings
